@@ -1,0 +1,6 @@
+{
+  "name": "Golf Simulatie Applet",
+  "description": "Een interactieve simulatie van een lopende golf met instelbare parameters en de bijbehorende wiskundige vergelijking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
